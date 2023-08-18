@@ -9,6 +9,18 @@ Creare una mini guía para todos los que necesiten instalar macOS en procesadore
 
 ## Kernel
 
+::: details Información más detallada
+
+## Misc
+
+## NVRAM
+
+## PlatformInfo
+
+## UEFI
+
+## 
+
 
 
 ## 🌐 Redes Sociales:
