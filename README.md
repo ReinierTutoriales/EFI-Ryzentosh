@@ -7,6 +7,8 @@ Creare una mini guía para todos los que necesiten instalar macOS en procesadore
 
 ## DeviceProperties
 
+## Kernel
+
 
 
 ## 🌐 Redes Sociales:
