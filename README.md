@@ -5,7 +5,7 @@ Creare una mini guía para todos los que necesiten instalar macOS en procesadore
 | SSDTs Requeridos| Description |
 | :--- | :--- |
 | **[SSDT-EC-USBX](https://dortania.github.io/Getting-Started-With-ACPI/)** | Fixes both the embedded controller and USB power, see [Getting Started With ACPI Guide](https://dortania.github.io/Getting-Started-With-ACPI/) for more details. |
-| **[SSDT-CPUR](https://github.com/naveenkrdy/Misc/blob/master/SSDTs/SSDT-CPUR.dsl)** | Fixes CPU definitions with  B550 and A520 motherboards, **do not use** if you don't have an AMD B550 or A520 system. You can find a prebuilt here: [SSDT-CPUR.aml](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-CPUR.aml) |
+| **[SSDT-CPUR](https://github.com/naveenkrdy/Misc/blob/master/SSDTs/SSDT-CPUR.dsl)** | Fixes CPU definitions with  B550 and A520 motherboards, **do not use** if you don't have an AMD B550 or A520 system. You can find a prebuilt here: [SSDT-CPUR.aml](blob:https://github.com/927f9cf2-26a5-4fb2-b94a-70cbb670646c) |
 
 ## Booter
 
