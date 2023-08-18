@@ -1,5 +1,5 @@
 # EFI Ryzentosh para la Comunidad de ReinierTutoriales
-Creare una mini guía para todos los que necesiten instalar macOS en procesadores AMD Ryzen .  Tal y como la Dortania pero agregando algunas cosas que para mí son esenciales. 
+Creare una mini guía para todos los que necesiten instalar macOS en procesadores AMD Ryzen. Tal y como la Dortania pero agregando algunas cosas que para mí son esenciales. Dejando claro cada apartado para mejor comprensión 
 
 
 
