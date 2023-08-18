@@ -1,2 +1,2 @@
-# EFI-Ryzentosh para la Comunidad de ReinierTutoriales
+# EFI Ryzentosh para la Comunidad de ReinierTutoriales
 
