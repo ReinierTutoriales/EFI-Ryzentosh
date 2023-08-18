@@ -1,2 +1,2 @@
-# EFI-Ryzentosh-
-EFI AMD Ryzentosh
+# EFI-Ryzentosh para la Comunidad de ReinierTutoriales
+
