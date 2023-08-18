@@ -3,9 +3,9 @@ Creare una mini guía para todos los que necesiten instalar macOS en procesadore
 
 # ACPI
 
-#Booter
+# Booter
 
-#DeviceProperties
+# DeviceProperties
 
 
 
