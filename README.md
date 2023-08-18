@@ -9,7 +9,9 @@ Creare una mini guía para todos los que necesiten instalar macOS en procesadore
 
 ## Kernel
 
-::: details Información más detallada
+::: details More in-depth Info
+
+* **FuzzyMatch**: True
 
 ## Misc
 
