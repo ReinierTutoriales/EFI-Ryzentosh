@@ -32,7 +32,13 @@ Creare una mini guía para todos los que necesiten instalar macOS en procesadore
 ## UEFI
 
 ## Configuración en la BIOS
-- [x]
+- [x] Desactivar en la BIOS
+Fast Boot
+Secure Boot
+Serial/COM Port
+Parallel Port
+Compatibility Support Module CSM debe estar desactivado en la mayoría de los casos, los errores de GPU gIO son comunes cuando esta opción está habilitada.
+IOMMU
 
 
 
