@@ -10,6 +10,26 @@ Creare una mini guía para todos los que necesiten instalar macOS en procesadore
 - [x] Si vas a instalar para gráficos integrados AMD  en APU tienes que remover [WhateverGreen.kext](https://dortania.github.io/builds/?product=WhateverGreen&viewall=true) y incorporar [NootedRed.kext](https://github.com/NootInc/NootedRed).
 - [x] Esta EFI carece de serial por lo que deberá ser generado con [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS), ya que cada equipo necesita uno y duplicarlo puede traer graves consecuencias.
 
+### Estructura EFI
+## ACPI
+- SSDT-EC-USBX.aml
+## Drivers
+- HfsPlus.efi
+- OpenCanopy.efi
+- OpenRuntime.efi
+- ResetNvramEntry.efi
+- ToggleSipEntry.efi
+## Kexts
+- AppleALC.kext
+- Lilu.kext
+- RealtekRTL8111.kext
+- RestrictEvents.kext
+- VirtualSMC.kext
+- WhateverGreen.kext
+## Tools
+- OpenShell.efi
+- ResetSystem.efi
+
 ## ACPI
 | SSDTs Requeridos| Description |
 | :--- | :--- |
