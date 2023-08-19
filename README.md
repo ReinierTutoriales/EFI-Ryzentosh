@@ -31,6 +31,9 @@ Creare una mini guía para todos los que necesiten instalar macOS en procesadore
 
 ## UEFI
 
+## Configuración en la BIOS
+- [x]
+
 
 
 
