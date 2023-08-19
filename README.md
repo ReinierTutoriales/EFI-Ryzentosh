@@ -21,7 +21,10 @@ Creare una mini guía para todos los que necesiten instalar macOS en procesadore
 - ToggleSipEntry.efi
 ## Kexts
 - AppleALC.kext
+- AppleMCEReporterDisabler.kext
+- IntelMausi.kext
 - Lilu.kext
+- NVMeFix.kext
 - RealtekRTL8111.kext
 - RestrictEvents.kext
 - VirtualSMC.kext
