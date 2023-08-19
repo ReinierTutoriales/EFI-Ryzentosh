@@ -7,7 +7,7 @@ Creare una mini guía para todos los que necesiten instalar macOS en procesadore
 
 # Consideraciones a tener en cuenta.
 ✔ Esta EFI tiene SSDT genéricos de Dortania para mejorar la compatibilidad con el máximo de equipos. 
-
+✔ Si vas a instalar para gráficos integrados AMD  en APU tienes que remover WhateverGreen.kext y incorporar NootedRed.kext
 
 ## ACPI
 | SSDTs Requeridos| Description |
