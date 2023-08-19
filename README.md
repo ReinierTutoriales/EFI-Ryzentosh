@@ -39,6 +39,9 @@ Creare una mini guía para todos los que necesiten instalar macOS en procesadore
      - Parallel Port
      - Compatibility Support Module CSM debe estar desactivado en la mayoría de los casos, los errores de GPU gIO son comunes cuando esta opción está habilitada.
      - IOMMU
+     
+- [x] Habilitar en la BIOS.
+      - 
 
 
 
