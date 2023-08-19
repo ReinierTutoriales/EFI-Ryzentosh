@@ -32,7 +32,7 @@ Creare una mini guía para todos los que necesiten instalar macOS en procesadore
 ## UEFI
 
 ## Configuración en la BIOS
-- [x] Desactivar en la BIOS.
+- [x] Deshabilitar en la BIOS.
      - Fast Boot
      - Secure Boot
      - Serial/COM Port
