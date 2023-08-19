@@ -33,6 +33,7 @@ Creare una mini guía para todos los que necesiten instalar macOS en procesadore
 - OpenShell.efi
 - ResetSystem.efi
 
+# Configuración EFI por Apartados. 
 ## ACPI
 | SSDTs Requeridos| Description |
 | :--- | :--- |
