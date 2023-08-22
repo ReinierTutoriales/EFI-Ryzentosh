@@ -5,6 +5,39 @@
 # EFI Ryzentosh para la Comunidad de ReinierTutoriales
 Creare una mini guía para todos los que necesiten instalar macOS en procesadores AMD Ryzen. Tal y como la Dortania pero agregando algunas cosas que para mí son esenciales. Dejando claro cada apartado para mejor comprensión.
 
+# Consideraciones a tener en cuenta.
+- [x] Esta EFI tiene SSDT genéricos de Dortania para mejorar la compatibilidad con el máximo de equipos.
+- [x] Si vas a instalar para gráficos integrados AMD  en APU tienes que remover [WhateverGreen.kext](https://dortania.github.io/builds/?product=WhateverGreen&viewall=true) y incorporar [NootedRed.kext](https://github.com/NootInc/NootedRed).
+- [x] Esta EFI carece de serial por lo que deberá ser generado con [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS), ya que cada equipo necesita uno y duplicarlo puede traer graves consecuencias.
+
+### Vesion de OpenCore
+- [x] [`0.9.5`](https://dortania.github.io/builds/?product=OpenCorePkg&viewall=true)
+
+
+### Estructura EFI
+## ACPI
+- SSDT-EC-USBX.aml
+## Drivers
+- HfsPlus.efi
+- OpenCanopy.efi
+- OpenRuntime.efi
+- ResetNvramEntry.efi
+- ToggleSipEntry.efi
+## Kexts
+- AppleALC.kext
+- AppleMCEReporterDisabler.kext
+- IntelMausi.kext
+- Lilu.kext
+- NVMeFix.kext
+- RealtekRTL8111.kext
+- RestrictEvents.kext
+- VirtualSMC.kext
+- WhateverGreen.kext
+## Tools
+- OpenShell.efi
+- ResetSystem.efi
+
+# Configuración EFI por Apartados. 
 ## ACPI
 | SSDTs Requeridos| Description |
 | :--- | :--- |
@@ -26,6 +59,21 @@ Creare una mini guía para todos los que necesiten instalar macOS en procesadore
 ## PlatformInfo
 
 ## UEFI
+
+## Configuración en la BIOS
+- [x] Deshabilitar en la BIOS.
+     - Fast Boot
+     - Secure Boot
+     - Serial/COM Port
+     - Parallel Port
+     - Compatibility Support Module CSM debe estar desactivado en la mayoría de los casos, los errores de GPU gIO son comunes cuando esta opción está habilitada.
+     - IOMMU
+ 
+ - [x] Habilitar en la BIOS.
+      - Above 4G Decoding
+      - EHCI/XHCI Hand-off
+      - OS type: Windows 8.1/10 UEFI Mode
+      - SATA Mode: AHCI
 
 
 
