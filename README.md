@@ -4,7 +4,7 @@
 
 # EFI Ryzentosh para la Comunidad de ReinierTutoriales
 Creare una mini guía para todos los que necesiten instalar macOS en procesadores AMD Ryzen. Tal y como la Dortania pero agregando algunas cosas que para mí son esenciales. Dejando claro cada apartado para mejor comprensión.
-![Static Badge](https://img.shields.io/badge/macOS-BigSur-blue)](https://www.facebook.com/groups/reiniertutoriales/)
+
 
 # Consideraciones a tener en cuenta.
 - [x] Esta EFI tiene SSDT genéricos de Dortania para mejorar la compatibilidad con el máximo de equipos.
