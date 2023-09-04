@@ -1,7 +1,7 @@
 ## 🌐 Redes 👇
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/groups/reiniertutoriales/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/ReinierTutoriales) [![Telegram](https://img.shields.io/badge/Telegram-%26A5E4.svg?logo=Telegram&logoColor=white)](https://t.me/ReinierTutoriales) [![Cómprame un :tea:](https://github.com/ReinierTutoriales/ReinierTutoriales/blob/main/imagenes/paypal.svg)](https://www.paypal.com/paypalme/ReinierTutoriales)
 
-
+[![Static Badge](https://img.shields.io/badge/macOS-BigSur-blue)](https://www.facebook.com/groups/reiniertutoriales/)
 # EFI Ryzentosh para la Comunidad de ReinierTutoriales
 Creare una mini guía para todos los que necesiten instalar macOS en procesadores AMD Ryzen. Tal y como la Dortania pero agregando algunas cosas que para mí son esenciales. Dejando claro cada apartado para mejor comprensión.
 
