@@ -83,7 +83,7 @@ Creare una mini guía para todos los que necesiten instalar macOS en procesadore
  
  - [x] Habilitar en la BIOS.
       - Above 4G Decoding
-      - Resize Apple GpuBars en graficas de serie RX 6000 Activarlo.
+      - Resize Apple GpuBars Actívalo en graficas de serie RX 6000 .
       - EHCI/XHCI Hand-off
       - OS type: Windows 8.1/10 UEFI Mode
       - SATA Mode: AHCI
