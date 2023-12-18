@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/ReinierTutoriales/ReinierTutoriales/blob/main/imagenes/Logo.png" width="150"/>
+  <img src="https://github.com/ReinierTutoriales/ReinierTutoriales/blob/main/imagenes/Logo%20RT.png" width="150"/>
 
 ## 🌐 Redes 👇
 [![](https://img.shields.io/badge/YouTube-informational?style=for-the-badge&logo=telegram&logoColor=white&color=FF0000)](https://youtube.com/c/ReinierTutoriales)
