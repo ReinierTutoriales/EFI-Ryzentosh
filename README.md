@@ -11,7 +11,7 @@
 
 <hr>
 
- Ryzentosh AMD Universal
+ Ryzentosh AMD
 ==========================================
 
 [![Static Badge](https://img.shields.io/badge/macOS-Ventura-blue)](https://www.reiniertutoriales.com/topic/96-iso-booteable-de-macos-ventura-1351/)
